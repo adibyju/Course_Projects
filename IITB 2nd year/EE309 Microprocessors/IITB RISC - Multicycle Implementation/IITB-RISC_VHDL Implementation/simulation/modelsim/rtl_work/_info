@@ -1,0 +1,660 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/simulation/modelsim
+Ealu
+Z1 w1651498342
+Z2 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 12
+R0
+Z5 8E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/ALU.vhd
+Z6 FE:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/ALU.vhd
+l0
+L6 1
+VXz];`Vl22f[O8<F1WMbbG3
+!s100 F<@MeQN0Bocem?giW;CEc1
+Z7 OV;C;2020.1;71
+31
+Z8 !s110 1651957996
+!i10b 1
+Z9 !s108 1651957996.000000
+Z10 !s90 -reportprogress|300|-93|-work|work|E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/ALU.vhd|
+Z11 !s107 E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/ALU.vhd|
+!i113 1
+Z12 o-93 -work work
+Z13 tExplicit 1 CvgOpt 0
+Aalu_logic
+R2
+R3
+R4
+DEx4 work 3 alu 0 22 Xz];`Vl22f[O8<F1WMbbG3
+!i122 12
+l18
+L17 37
+VQ=3ba?ihCClYUXJ<G[nXF1
+!s100 BnW[6a29EEKYH7SlGIB9=2
+R7
+31
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Econtrol_system
+Z14 w1651930602
+R2
+Z15 DPx4 ieee 9 math_real 0 22 gNk<PdFJ<XNPcfef`f?Z81
+R3
+R4
+!i122 11
+R0
+Z16 8E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/Control_System.vhd
+Z17 FE:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/Control_System.vhd
+l0
+L6 1
+VnAbC0>cg8RMiA7FVCFATW3
+!s100 zeAeY:ejEG3d6G3>R?><i1
+R7
+31
+R8
+!i10b 1
+R9
+Z18 !s90 -reportprogress|300|-93|-work|work|E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/Control_System.vhd|
+Z19 !s107 E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/Control_System.vhd|
+!i113 1
+R12
+R13
+Acontrol_system_logic
+R2
+R15
+R3
+R4
+DEx4 work 14 control_system 0 22 nAbC0>cg8RMiA7FVCFATW3
+!i122 11
+l21
+L16 693
+V`dG4EFlE4[4ih33@jAnFD0
+!s100 031c=9h:>i=>dlGRZMfoC1
+R7
+31
+R8
+!i10b 1
+R9
+R18
+R19
+!i113 1
+R12
+R13
+Eir
+Z20 w1651356142
+R2
+R15
+R3
+R4
+!i122 10
+R0
+Z21 8E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/IR.vhd
+Z22 FE:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/IR.vhd
+l0
+L6 1
+VhmEhnlHC[g9n5[@3LU5L?2
+!s100 ?bFBPS5zV0;0J68n^n0942
+R7
+31
+R8
+!i10b 1
+Z23 !s108 1651957995.000000
+Z24 !s90 -reportprogress|300|-93|-work|work|E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/IR.vhd|
+Z25 !s107 E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/IR.vhd|
+!i113 1
+R12
+R13
+Air_logic
+R2
+R15
+R3
+R4
+DEx4 work 2 ir 0 22 hmEhnlHC[g9n5[@3LU5L?2
+!i122 10
+l18
+Z26 L14 15
+V3ePfGPi=JaInW3>VNIcg03
+!s100 e<YIA^<<R`UzN]DNbZYT10
+R7
+31
+R8
+!i10b 1
+R23
+R24
+R25
+!i113 1
+R12
+R13
+Els1
+Z27 w1651930456
+R2
+R3
+R4
+!i122 9
+R0
+Z28 8E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/LS1.vhd
+Z29 FE:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/LS1.vhd
+l0
+L5 1
+VAna2?j>P=<MUM=azMDKG10
+!s100 oB4jzb9T64<Q^gkcfFAH11
+R7
+31
+Z30 !s110 1651957995
+!i10b 1
+R23
+Z31 !s90 -reportprogress|300|-93|-work|work|E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/LS1.vhd|
+Z32 !s107 E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/LS1.vhd|
+!i113 1
+R12
+R13
+Als1_logic
+R2
+R3
+R4
+DEx4 work 3 ls1 0 22 Ana2?j>P=<MUM=azMDKG10
+!i122 9
+l12
+Z33 L11 7
+V<<LZY3IU9O1ZSfBgk:?DO1
+!s100 KP`<e^^KG0l`eNKb9_16Q1
+R7
+31
+R30
+!i10b 1
+R23
+R31
+R32
+!i113 1
+R12
+R13
+Els7
+Z34 w1651930476
+R2
+R3
+R4
+!i122 8
+R0
+Z35 8E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/LS7.vhd
+Z36 FE:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/LS7.vhd
+l0
+L5 1
+V]7Vf8dHH?BzHg0O`>[7IL2
+!s100 3:fTE2lfjlAg=jZMV[WDb1
+R7
+31
+R30
+!i10b 1
+R23
+Z37 !s90 -reportprogress|300|-93|-work|work|E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/LS7.vhd|
+Z38 !s107 E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/LS7.vhd|
+!i113 1
+R12
+R13
+Als7_logic
+R2
+R3
+R4
+DEx4 work 3 ls7 0 22 ]7Vf8dHH?BzHg0O`>[7IL2
+!i122 8
+l12
+R33
+Vd66lf23DFz?Cg5B4mjSbg0
+!s100 S?CD6ie7aIF?joIe0TLlJ0
+R7
+31
+R30
+!i10b 1
+R23
+R37
+R38
+!i113 1
+R12
+R13
+Ememory
+Z39 w1651597970
+R2
+R15
+R3
+R4
+!i122 7
+R0
+Z40 8E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/Memory.vhd
+Z41 FE:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/Memory.vhd
+l0
+L6 1
+VEzKcZmXeaM0dOPAGAN0n<3
+!s100 2U@F@WI8mdWkU<Z>WeF072
+R7
+31
+R30
+!i10b 1
+R23
+Z42 !s90 -reportprogress|300|-93|-work|work|E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/Memory.vhd|
+Z43 !s107 E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/Memory.vhd|
+!i113 1
+R12
+R13
+Amemory_logic
+R2
+R15
+R3
+R4
+DEx4 work 6 memory 0 22 EzKcZmXeaM0dOPAGAN0n<3
+!i122 7
+l19
+L14 38
+VKZZEL=9zVQ=WQ7mlZn^lX0
+!s100 GNBOfLUjaW18DI9O4m_FH3
+R7
+31
+R30
+!i10b 1
+R23
+R42
+R43
+!i113 1
+R12
+R13
+Emux2
+Z44 w1651930166
+R3
+R4
+!i122 14
+R0
+Z45 8E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/2x1mux.vhd
+Z46 FE:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/2x1mux.vhd
+l0
+L4 1
+V]6eVG`mc89PUOn0LALZ][3
+!s100 1TPS1XFIFa[Xe]D1NHbbX2
+R7
+31
+Z47 !s110 1651957997
+!i10b 1
+R9
+Z48 !s90 -reportprogress|300|-93|-work|work|E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/2x1mux.vhd|
+!s107 E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/2x1mux.vhd|
+!i113 1
+R12
+R13
+Abhv
+R3
+R4
+DEx4 work 4 mux2 0 22 ]6eVG`mc89PUOn0LALZ][3
+!i122 14
+l15
+L14 11
+VaV>VKgSW^QMBfbfRV@8G]1
+!s100 zkMF4QK3F>PgfVb9f?eAO0
+R7
+31
+R47
+!i10b 1
+R9
+R48
+Z49 !s107 E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/2x1mux.vhd|
+!i113 1
+R12
+R13
+Emux4
+R44
+R3
+R4
+!i122 13
+R0
+Z50 8E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/4x1mux.vhd
+Z51 FE:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/4x1mux.vhd
+l0
+L4 1
+VVEaL1]JgU8O8zUiXia0Wo2
+!s100 0z2LRCP?AOSK^>4<Mh>W72
+R7
+31
+R8
+!i10b 1
+R9
+Z52 !s90 -reportprogress|300|-93|-work|work|E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/4x1mux.vhd|
+Z53 !s107 E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/4x1mux.vhd|
+!i113 1
+R12
+R13
+Abhv
+R3
+R4
+DEx4 work 4 mux4 0 22 VEaL1]JgU8O8zUiXia0Wo2
+!i122 13
+l15
+R26
+Vh_28`FYL>4KW>NA4nP8zO0
+!s100 GL2EHX1ET9Nii5bd?;NHR1
+R7
+31
+R8
+!i10b 1
+R9
+R52
+R53
+!i113 1
+R12
+R13
+Epe
+Z54 w1651930922
+R3
+R4
+!i122 6
+R0
+Z55 8E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/PE.vhd
+Z56 FE:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/PE.vhd
+l0
+L7 1
+V3meKJ?KR_1VI[]TODoGEg0
+!s100 zH`PJKLL^>OLaZk@YN0Re0
+R7
+31
+R30
+!i10b 1
+R23
+Z57 !s90 -reportprogress|300|-93|-work|work|E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/PE.vhd|
+Z58 !s107 E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/PE.vhd|
+!i113 1
+R12
+R13
+Ape_logic
+R3
+R4
+DEx4 work 2 pe 0 22 3meKJ?KR_1VI[]TODoGEg0
+!i122 6
+l18
+L16 50
+V82:fIZ=o>loD?QHOUMlAL0
+!s100 XYEIoVIAgjoIYIQVD<h=30
+R7
+31
+R30
+!i10b 1
+R23
+R57
+R58
+!i113 1
+R12
+R13
+Eprocessor
+Z59 w1651931948
+R3
+R4
+!i122 0
+R0
+Z60 8E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/TopLevel.vhd
+Z61 FE:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/TopLevel.vhd
+l0
+L4 1
+VF2ZoNn4fZII9d8La`;M9h0
+!s100 VlTRaE0GFSY1Yi?>:SGn]1
+R7
+31
+Z62 !s110 1651957994
+!i10b 1
+Z63 !s108 1651957994.000000
+Z64 !s90 -reportprogress|300|-93|-work|work|E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/TopLevel.vhd|
+Z65 !s107 E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/TopLevel.vhd|
+!i113 1
+R12
+R13
+Aarch
+R3
+R4
+DEx4 work 9 processor 0 22 F2ZoNn4fZII9d8La`;M9h0
+!i122 0
+l157
+L9 227
+Ve@22@TW=Z7n_z^>]m::ZQ0
+!s100 <kmW=azR7EPMo=g4ia1XP1
+R7
+31
+R62
+!i10b 1
+R63
+R64
+R65
+!i113 1
+R12
+R13
+Ereg
+Z66 w1651930168
+R2
+R15
+R3
+R4
+!i122 5
+R0
+Z67 8E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/Reg.vhd
+Z68 FE:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/Reg.vhd
+l0
+L6 1
+VlXOKm:dG7[gCBVzBN7eld2
+!s100 6A`W?UXRzJ[lFiV[`l?MI3
+R7
+31
+R30
+!i10b 1
+R23
+Z69 !s90 -reportprogress|300|-93|-work|work|E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/Reg.vhd|
+Z70 !s107 E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/Reg.vhd|
+!i113 1
+R12
+R13
+Areg_logic
+R2
+R15
+R3
+R4
+DEx4 work 3 reg 0 22 lXOKm:dG7[gCBVzBN7eld2
+!i122 5
+l19
+L15 14
+VKBN=ZVj0RMAHAh3Wjo[aG2
+!s100 zc3TWi8mT=?nnJzNn8]i82
+R7
+31
+R30
+!i10b 1
+R23
+R69
+R70
+!i113 1
+R12
+R13
+Erf
+Z71 w1651598356
+R2
+R15
+R3
+R4
+!i122 4
+R0
+Z72 8E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/RF.vhd
+Z73 FE:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/RF.vhd
+l0
+L6 1
+VlQ`oBi87d4F95YmHkV8Jm0
+!s100 _Mc<RB4RbeLEfZB<?:GC?0
+R7
+31
+R30
+!i10b 1
+R63
+Z74 !s90 -reportprogress|300|-93|-work|work|E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/RF.vhd|
+Z75 !s107 E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/RF.vhd|
+!i113 1
+R12
+R13
+Arf_logic
+R2
+R15
+R3
+R4
+DEx4 work 2 rf 0 22 lQ`oBi87d4F95YmHkV8Jm0
+!i122 4
+l20
+L15 43
+VRFH5nkXEEj6DK85]NCgdY2
+!s100 z:o77[<[IR;FJ<6L17LPL0
+R7
+31
+R30
+!i10b 1
+R63
+R74
+R75
+!i113 1
+R12
+R13
+Ese6
+Z76 w1651930642
+R2
+R3
+R4
+!i122 3
+R0
+Z77 8E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/SE6.vhd
+Z78 FE:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/SE6.vhd
+l0
+L5 1
+VPmceC<;b9UY`]83SoQ[f>0
+!s100 k;D:3EWg_3PZYi`j:B02X0
+R7
+31
+R62
+!i10b 1
+R63
+Z79 !s90 -reportprogress|300|-93|-work|work|E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/SE6.vhd|
+Z80 !s107 E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/SE6.vhd|
+!i113 1
+R12
+R13
+Abasic
+R2
+R3
+R4
+DEx4 work 3 se6 0 22 PmceC<;b9UY`]83SoQ[f>0
+!i122 3
+l14
+Z81 L13 11
+Vgjmf65bhnENLRA>?N4`Az0
+!s100 GBTZUQ@nN16:KCNOFiVNg2
+R7
+31
+R62
+!i10b 1
+R63
+R79
+R80
+!i113 1
+R12
+R13
+Ese9
+Z82 w1651930658
+R2
+R3
+R4
+!i122 2
+R0
+Z83 8E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/SE9.vhd
+Z84 FE:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/SE9.vhd
+l0
+L5 1
+VcfeKgEWI@^RzH4HT9MTLY1
+!s100 ;hgd6UmKeEf=JQUJ4aIQ;1
+R7
+31
+R62
+!i10b 1
+R63
+Z85 !s90 -reportprogress|300|-93|-work|work|E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/SE9.vhd|
+Z86 !s107 E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/SE9.vhd|
+!i113 1
+R12
+R13
+Abasic
+R2
+R3
+R4
+DEx4 work 3 se9 0 22 cfeKgEWI@^RzH4HT9MTLY1
+!i122 2
+l14
+R81
+V6U2Ob6Yj_gG3hONC4FSD;2
+!s100 lY30=JH_a_K3CHUS:]B[g2
+R7
+31
+R62
+!i10b 1
+R63
+R85
+R86
+!i113 1
+R12
+R13
+Et5
+Z87 w1651930754
+R2
+R15
+R3
+R4
+!i122 1
+R0
+Z88 8E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/T5.vhd
+Z89 FE:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/T5.vhd
+l0
+L6 1
+Vc3c@OYTIYGM[ZT`cc9M:i1
+!s100 C1M:8]QJHo0TjVTZUIZO_1
+R7
+31
+R62
+!i10b 1
+R63
+Z90 !s90 -reportprogress|300|-93|-work|work|E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/T5.vhd|
+Z91 !s107 E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/T5.vhd|
+!i113 1
+R12
+R13
+At5_logic
+R2
+R15
+R3
+R4
+DEx4 work 2 t5 0 22 c3c@OYTIYGM[ZT`cc9M:i1
+!i122 1
+l18
+L14 16
+Vg]9]7MPM_FKn<hiBd^TL00
+!s100 =gdSBnk2MKddGWBTg>JI53
+R7
+31
+R62
+!i10b 1
+R63
+R90
+R91
+!i113 1
+R12
+R13

@@ -1,0 +1,21 @@
+transcript on
+if {[file exists rtl_work]} {
+	vdel -lib rtl_work -all
+}
+vlib rtl_work
+vmap work rtl_work
+
+vcom -93 -work work {F:/quartus_files/project/4x1mux16bit.vhd}
+vcom -93 -work work {F:/quartus_files/project/4x1mux3bit.vhd}
+vcom -93 -work work {F:/quartus_files/project/RFOutB.vhd}
+vcom -93 -work work {F:/quartus_files/project/RFOutA.vhd}
+vcom -93 -work work {F:/quartus_files/project/Memory.vhd}
+vcom -93 -work work {F:/quartus_files/project/control.vhd}
+vcom -93 -work work {F:/quartus_files/project/ALUoutReg.vhd}
+vcom -93 -work work {F:/quartus_files/project/PC.vhd}
+vcom -93 -work work {F:/quartus_files/project/alu.vhd}
+vcom -93 -work work {F:/quartus_files/project/processor.vhd}
+vcom -93 -work work {F:/quartus_files/project/MemDataReg.vhd}
+vcom -93 -work work {F:/quartus_files/project/RegisterFile.vhd}
+vcom -93 -work work {F:/quartus_files/project/InstructionReg.vhd}
+

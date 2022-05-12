@@ -1,0 +1,247 @@
+# Reading pref.tcl
+# do RF_run_msim_rtl_vhdl.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 2020.1 Lib Mapping Utility 2020.02 Feb 28 2020
+# vmap work rtl_work 
+# Copying C:/intelFPGA_lite/20.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vcom -93 -work work {E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/TopLevel.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 02:43:14 on May 08,2022
+# vcom -reportprogress 300 -93 -work work E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/TopLevel.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity processor
+# -- Compiling architecture arch of processor
+# End time: 02:43:14 on May 08,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/T5.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 02:43:14 on May 08,2022
+# vcom -reportprogress 300 -93 -work work E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/T5.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package MATH_REAL
+# -- Loading package NUMERIC_STD
+# -- Compiling entity T5
+# -- Compiling architecture T5_logic of T5
+# End time: 02:43:14 on May 08,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/SE9.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 02:43:14 on May 08,2022
+# vcom -reportprogress 300 -93 -work work E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/SE9.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity SE9
+# -- Compiling architecture basic of SE9
+# End time: 02:43:14 on May 08,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/SE6.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 02:43:14 on May 08,2022
+# vcom -reportprogress 300 -93 -work work E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/SE6.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity SE6
+# -- Compiling architecture basic of SE6
+# End time: 02:43:14 on May 08,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/RF.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 02:43:14 on May 08,2022
+# vcom -reportprogress 300 -93 -work work E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/RF.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package MATH_REAL
+# -- Loading package NUMERIC_STD
+# -- Compiling entity RF
+# -- Compiling architecture RF_logic of RF
+# End time: 02:43:15 on May 08,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/Reg.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 02:43:15 on May 08,2022
+# vcom -reportprogress 300 -93 -work work E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/Reg.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package MATH_REAL
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Reg
+# -- Compiling architecture Reg_logic of Reg
+# End time: 02:43:15 on May 08,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/PE.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 02:43:15 on May 08,2022
+# vcom -reportprogress 300 -93 -work work E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/PE.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity PE
+# -- Compiling architecture PE_logic of PE
+# End time: 02:43:15 on May 08,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/Memory.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 02:43:15 on May 08,2022
+# vcom -reportprogress 300 -93 -work work E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/Memory.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package MATH_REAL
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Memory
+# -- Compiling architecture Memory_logic of Memory
+# End time: 02:43:15 on May 08,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/LS7.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 02:43:15 on May 08,2022
+# vcom -reportprogress 300 -93 -work work E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/LS7.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity LS7
+# -- Compiling architecture LS7_logic of LS7
+# End time: 02:43:15 on May 08,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/LS1.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 02:43:15 on May 08,2022
+# vcom -reportprogress 300 -93 -work work E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/LS1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity LS1
+# -- Compiling architecture LS1_logic of LS1
+# End time: 02:43:15 on May 08,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/IR.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 02:43:15 on May 08,2022
+# vcom -reportprogress 300 -93 -work work E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/IR.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package MATH_REAL
+# -- Loading package NUMERIC_STD
+# -- Compiling entity IR
+# -- Compiling architecture IR_logic of IR
+# End time: 02:43:16 on May 08,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/Control_System.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 02:43:16 on May 08,2022
+# vcom -reportprogress 300 -93 -work work E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/Control_System.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package MATH_REAL
+# -- Loading package NUMERIC_STD
+# -- Compiling entity control_system
+# -- Compiling architecture control_system_logic of control_system
+# End time: 02:43:16 on May 08,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/ALU.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 02:43:16 on May 08,2022
+# vcom -reportprogress 300 -93 -work work E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/ALU.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity alu
+# -- Compiling architecture alu_logic of alu
+# End time: 02:43:16 on May 08,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/4x1mux.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 02:43:16 on May 08,2022
+# vcom -reportprogress 300 -93 -work work E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/4x1mux.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity mux4
+# -- Compiling architecture bhv of mux4
+# End time: 02:43:16 on May 08,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/2x1mux.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 02:43:16 on May 08,2022
+# vcom -reportprogress 300 -93 -work work E:/IITB/2nd Year/EE309 Microprocessors/Project Final/RISC_Multicycle_VHDLimplementation/2x1mux.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity mux2
+# -- Compiling architecture bhv of mux2
+# End time: 02:43:17 on May 08,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# 
+vsim work.processor
+# vsim work.processor 
+# Start time: 02:43:33 on May 08,2022
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.processor(arch)
+# Loading ieee.math_real(body)
+# Loading ieee.numeric_std(body)
+# Loading work.control_system(control_system_logic)
+# Loading work.mux2(bhv)
+# Loading work.mux4(bhv)
+# Loading work.memory(memory_logic)
+# Loading work.rf(rf_logic)
+# Loading work.alu(alu_logic)
+# Loading work.pe(pe_logic)
+# Loading work.ls1(ls1_logic)
+# Loading work.ls7(ls7_logic)
+# Loading work.se6(basic)
+# Loading work.se9(basic)
+# Loading work.ir(ir_logic)
+# Loading work.reg(reg_logic)
+# Loading work.t5(t5_logic)
+add wave -position insertpoint sim:/processor/*
+add wave -position insertpoint  \
+sim:/processor/control_systemport/Q
+force -freeze sim:/processor/clk 0 0, 1 {50 ps} -r 100
+force -freeze sim:/processor/rst 1 0
+run
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /processor/RFport
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /processor/RFport
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 1  Instance: /processor/ALUport
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 50 ps  Iteration: 1  Instance: /processor/RFport
+run
+force -freeze sim:/processor/rst 0 0
+run
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 250 ps  Iteration: 4  Instance: /processor/RFport
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 250 ps  Iteration: 4  Instance: /processor/RFport
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 300 ps  Iteration: 1  Instance: /processor/RFport
+run
+run
+run
+run
+# End time: 02:53:00 on May 08,2022, Elapsed time: 0:09:27
+# Errors: 0, Warnings: 7
